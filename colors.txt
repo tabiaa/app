@@ -1,0 +1,4 @@
+firstscreen bgcolor(#3E3228)
+all screen bgcolor(#FEFEFE)
+primarySwatchColor for buttons(#BB806D)
+textcolors(#514434,#B1ACA8)
